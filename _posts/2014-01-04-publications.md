@@ -1,6 +1,6 @@
 ---
 title: "publications"
-bg: black
+bg: blue
 color: grey
 fa-icon: institution
 ---

@@ -1,6 +1,6 @@
 ---
 title: "highlights"
-bg: grey
+bg: white
 color: black
 fa-icon: trophy
 style: center
