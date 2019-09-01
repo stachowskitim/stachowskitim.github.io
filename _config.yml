@@ -7,19 +7,19 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: :/title
+permalink: /:title
 timezone: null
 lsi: false
 markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Tim Stachowski's Personal Website"
+keywords:    "Tim Stachowski, PhD candidate"
+description: "Personal website for my research, code, and hobbies"
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     lightbulb-o
+touch_icon:  lightbulb-o
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -27,11 +27,13 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
+  blue:      '#256697'
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  grey:      '#f2f2f2'
+  forest:    '#0D7120'
 
 kramdown:
   auto_ids:  false
