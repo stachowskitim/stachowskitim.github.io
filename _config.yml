@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Tim Stachowski's Personal Website"
-keywords:    "Tim Stachowski, PhD candidate"
+keywords:    "Tim Stachowski, PhD"
 description: "Personal website for my research, code, and hobbies"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     lightbulb-o
@@ -26,7 +26,7 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#f8f8f8'
+  white:     '#ffffff'
   blue:      '#256697'
   green:     '#9bcf2f'
   purple:    '#c869bf'
