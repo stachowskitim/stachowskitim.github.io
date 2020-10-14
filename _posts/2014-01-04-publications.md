@@ -13,7 +13,7 @@ PLoS One. 2020. In press <br>
 <br>
 2. **Structural insights into conformational switching in latency-associated peptide between TGFβ-1 bound and unbound states** <br>
 <br>
-**Stachowski TR**, Snell ME, Snell EH. IUCrJ. <br>
+**Stachowski TR**, Snell ME, Snell EH. <br>
 IUCrJ. 2020 Feb 6;7(Pt 2):238-252. <br>
 doi:http://dx.doi.org/10.1107/S205225251901707X <br>
 **Open Access** <br>
