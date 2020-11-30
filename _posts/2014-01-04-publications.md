@@ -8,7 +8,8 @@ fa-icon: institution
 1. **SAXS studies of X-ray induced disulfide bond damage: Engineering high-resolution insight from a low-resolution technique**<br>
 <br>
 **Stachowski, T.R.**, Snell, M.E., Snell, E.H. <br>
-PLoS One. 2020. In press <br>
+PLoS ONE 15 (11), e0239702 <br>
+https://doi.org/10.1371/journal.pone.0239702 <br>
 **Open Access** <br>
 <br>
 2. **Structural insights into conformational switching in latency-associated peptide between TGFβ-1 bound and unbound states** <br>
